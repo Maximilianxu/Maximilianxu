@@ -10,6 +10,6 @@ I am Zhiying Xu. I just graduated from Nanjing University and have joined Alibab
 
 - 🔭 I’m currently working on DL performance optimization.
 - 🌱 I’m currently learning LLM, CUDA, and related techniques.
-- 👯 I’m working in Alibaba-PAI now.
+- 👯 I’m working with Alibaba-PAI now.
 - 🤔 I’m looking for DaLaos who can publish OSDI papers with me!
-- ⚡ Fun fact: I like music, movie, art, literature, etc.
+- ⚡ Fun fact: I like music and movies, but especially mystery works like sherlock holmes. I also love some Japanese mystery writers, like 横沟正史，大山诚一郎， etc.

@@ -2,7 +2,7 @@
 
 I am Zhiying Xu. I just graduated from Nanjing University and have joined Alibaba-PAI.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximilianxu&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximilianxu&show_icons=true)
 )
 
 <!--
